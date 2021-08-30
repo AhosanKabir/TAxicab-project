@@ -1,0 +1,53 @@
+/*=========================================================
+  Start Header
+=========================================================*/
+@media (max-width: 992px) {
+}
+/*-------------------------------------------------------------------------*/
+@media (max-width: 768px) {
+  ul {
+    margin: 20px;
+  }
+  ul li a.nav-link {
+    margin: 3px;
+  }
+  .mt-4 {
+    margin-top: 4.5rem !important;
+  }
+}
+/*-------------------------------------------------------------------------*/
+@media (max-width: 556px) {
+  header {
+    padding: 20px 0;
+  }
+  .mt-4 {
+    margin-top: 1rem !important;
+  }
+}
+/*-------------------------------------------------------------------------*/
+@media (max-width: 480px) {
+}
+/*-------------------------------------------------------------------------*/
+@media (max-width: 320px) {
+  .header-info h3 {
+    font-size: 25px;
+  }
+
+  .header-info h1 {
+    font-size: 35px;
+  }
+
+  .header-info p {
+    font-size: 12px;
+    letter-spacing: 3px;
+    margin-left: 10px;
+  }
+
+  .mt-4 {
+    margin-top: 0 !important;
+  }
+}
+/*-------------------------------------------------------------------------*/
+@media (max-width: 290px) {
+}
+/*End Header*/
